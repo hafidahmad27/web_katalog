@@ -7,7 +7,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="m-b-20"><strong>UMKM SEKAR AYU PUTAT JAYA</strong></h1>
-						<p class="m-b-40">Proses Pembuatan produk yang di kerjakan oleh profesional pada bidangnya disurabaya dengan menghasilkan kualitas produk yang terjamin</p>
+						<p class="m-b-40">Proses pembuatan batik yang dikerjakan oleh tenaga profesional di bidangnya dengan menghasilkan kualitas yang terjamin</p>
 						<!--<p><a class="btn hvr-hover" href="#">Shop New</a></p>-->
 					</div>
 				</div>
@@ -19,7 +19,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<h1 class="m-b-20"><strong>UMKM SEKAR AYU PUTAT JAYA</strong></h1>
-						<p class="m-b-40">Proses Pembuatan produk yang di kerjakan oleh profesional pada bidangnya disurabaya dengan menghasilkan kualitas produk yang terjamin</p>
+						<p class="m-b-40">Proses pembuatan batik yang dikerjakan oleh tenaga profesional di bidangnya dengan menghasilkan kualitas yang terjamin</p>
 						<!--<p><a class="btn hvr-hover" href="#">Lihat Produk</a></p>-->
 					</div>
 				</div>
